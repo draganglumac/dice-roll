@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DiceRoll</string>
+    <string name="text_roll">Roll</string>
+    <string name="result_of_a_dice_roll">Result of a dice roll</string>
+    <string name="text_roll_result">Result of rolling a die</string>
+</resources>
